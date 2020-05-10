@@ -1,9 +1,9 @@
 # Project Outline
 
 ### Overview
-	My Project will be a Book Sharing that will allow users to search a book and the user can swap, rent or buy available books. It will allow users to login in and enter the book that they have by adding Title and Author of the book. It will also allow the users to search the book without logging in. User can sort/filter the results and also do an advanced search for the book they want.
+My Project will be a Book Sharing that will allow users to search a book and the user can swap, rent or buy available books. It will allow users to login in and enter the book that they have by adding Title and Author of the book. It will also allow the users to search the book without logging in. User can sort/filter the results and also do an advanced search for the book they want.
 
-	The idea of this project came when my mentor shares the best books and some useful websites for further learning, for a moment I feel like why can’t all these in a one place. Then I decided to place them in one place and after that I thought those who bought a book for reference and used only once or twice can share the book for others who are in need. So, I decided to make book sharing web app.
+The idea of this project came when my mentor shares the best books and some useful websites for further learning, for a moment I feel like why can’t all these in a one place. Then I decided to place them in one place and after that I thought those who bought a book for reference and used only once or twice can share the book for others who are in need. So, I decided to make book sharing web app.
 
 ### Features
 * User Sign-up: Users will be able to create an account that will allow them to add, search, swap, rent and buy a book.
