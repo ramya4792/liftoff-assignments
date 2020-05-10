@@ -23,8 +23,8 @@
 
 
 ### What I'll Have to Learn
-	For the payment option, I don’t have any idea how to maintain confidential details about the card and how to authorize it.
-	I’ll have to dive deep into how to filter the results and perform advanced search.
+For the payment option, I don’t have any idea how to maintain confidential details about the card and how to authorize it.
+I’ll have to dive deep into how to filter the results and perform advanced search.
 
 
 ### Project Tracker
