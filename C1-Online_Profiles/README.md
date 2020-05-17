@@ -13,3 +13,4 @@ https://github.com/ramya4792/
 https://www.linkedin.com/in/ramya-krishna-parisi-180421190/
 
 ### Resume
+https://github.com/ramya4792/liftoff-assignments/blob/master/C1-Online_Profiles/RESUME.pdf
